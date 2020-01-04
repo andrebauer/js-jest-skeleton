@@ -10,4 +10,14 @@ describe('example', () => {
             expect(example.add(-5, 0)).toEqual(-5)
         })
     })
+
+    describe('max3', () => {
+        it('should exist.', () => {
+            expect(example.max3).toBeDefined()
+        })
+
+        it('should return the largest of three numbers', () => {
+            expect(example.max3(1, 2, 3)).toEqual(3)
+        })
+    })
 })

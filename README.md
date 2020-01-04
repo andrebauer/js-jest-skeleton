@@ -11,7 +11,7 @@ $ git clone https://github.com/andrebauer/js-jest-skeleton.git your-project-name
 
 Alternatively you can download the latest [ZIP-Archive](https://github.com/andrebauer/js-jest-skeleton/archive/master.zip).
 
-Inside your repository run `npm install`
+Inside your repository run `npm install`.
 
 ```sh
 $ npm install
